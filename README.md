@@ -1,2 +1,5 @@
 # Usage
-Just do ./updaterepos.sh
+Just execute like the below.
+```
+./updaterepos.sh
+```
