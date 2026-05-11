@@ -7,6 +7,7 @@ echo "|_| \_\_____|_|    \___/ "
 echo
 
 
+rm -rf ~/.config/d3f4l7d/updaterepos
 rm -rf ~/.config/d3f4l7d/safearch
 rm -rf ~/.config/d3f4l7d/autoinstall
 rm -rf ~/.config/d3f4l7d/werewolf
@@ -14,6 +15,7 @@ rm -rf ~/.config/d3f4l7d/archjekyll
 rm -rf ~/.config/d3f4l7d/archfictrac
 rm -rf ~/.config/d3f4l7d/archlightningpose
 rm -rf ~/.config/d3f4l7d/archlightningpose3d
+git clone https://github.com/d3f4l7d/updaterepos.git ~/.config/d3f4l7d/updaterepos
 git clone https://github.com/d3f4l7d/safearch.git ~/.config/d3f4l7d/safearch
 git clone https://github.com/d3f4l7d/autoinstall.git ~/.config/d3f4l7d/autoinstall
 git clone https://github.com/d3f4l7d/werewolf.git ~/.config/d3f4l7d/werewolf
