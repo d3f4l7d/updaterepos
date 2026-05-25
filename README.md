@@ -1,5 +1,5 @@
-# Usage
-## Clean Build
+## Usage
+### Clean Build
 Just execute like the below.
 
 1. ```rm -rf ~/.config/d3f4l7d/updaterepos```
@@ -12,7 +12,7 @@ Just execute like the below.
 
 5. ```./updaterepos.sh```
 
-## Lazy Build
+### Lazy Build
 Just execute like the below.
 
 1. ```cd ~/.config/d3f4l7d/updaterepos```
