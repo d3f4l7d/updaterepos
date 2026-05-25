@@ -23,4 +23,5 @@ Just execute like the below.
 
 4. ```./updaterepos.sh```
 
-
+## License
+MIT License - see [LICENSE](/LICENSE) for more details.
