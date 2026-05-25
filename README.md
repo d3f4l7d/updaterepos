@@ -19,9 +19,7 @@ Just execute like the below.
 
 2. ```git pull```
 
-3. ```chmod +x updaterepos.sh```
-
-4. ```./updaterepos.sh```
+3. ```./updaterepos.sh```
 
 ## License
 MIT License - see [LICENSE](/LICENSE) for more details.
