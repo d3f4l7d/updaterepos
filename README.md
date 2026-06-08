@@ -4,7 +4,7 @@ Just execute like the below.
 1. ```chmod +x updaterepos.sh```
 
 2. ```./updaterepos.sh 2>&1 | tee updaterepos_stdouterr.txt```
-## reinstallation
+## Reinstallation
 Just execute like the below.
 
 1. ```cd ~/.config/d3f4l7d/updaterepos```
