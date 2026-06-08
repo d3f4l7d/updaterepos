@@ -17,9 +17,11 @@ Just execute like the below.
 
 1. ```cd ~/.config/d3f4l7d/updaterepos```
 
-2. ```git pull```
+2. ```git fetch --all```
 
-3. ```./updaterepos.sh 2>&1 | tee ~/.d3f4l7d/autoinstall/log/updaterepos_stdouterr.txt```
+3. ```git reset --hard origin/main```
+
+4. ```./updaterepos.sh 2>&1 | tee ~/.d3f4l7d/autoinstall/log/updaterepos_stdouterr.txt```
 
 ## License
 MIT License - see [LICENSE](/LICENSE) for more details.
