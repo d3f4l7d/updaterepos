@@ -10,7 +10,7 @@ Just execute like the below.
 
 4. ```chmod +x updaterepos.sh```
 
-5. ```./updaterepos.sh 2>&1 | tee ~/.d3f4l7d/autoinstall/log/updaterepos_stdouterr.txt```
+5. ```./updaterepos.sh 2>&1 | tee ~/.d3f4l7d/updaterepos/log/updaterepos_stdouterr.txt```
 
 ### Lazy Build
 Just execute like the below.
@@ -21,7 +21,7 @@ Just execute like the below.
 
 3. ```git reset --hard origin/main```
 
-4. ```./updaterepos.sh 2>&1 | tee ~/.d3f4l7d/autoinstall/log/updaterepos_stdouterr.txt```
+4. ```./updaterepos.sh 2>&1 | tee ~/.d3f4l7d/updaterepos/log/updaterepos_stdouterr.txt```
 
 ## License
 MIT License - see [LICENSE](/LICENSE) for more details.
