@@ -1,3 +1,14 @@
+if pacman -Q zsh &> /dev/null; then
+    #!/bin/zsh
+else
+    echo "zsh is not installed."
+    echo "This script was tested under zsh."
+    echo "Install zsh via pacman like: sudo pacman -S zsh && sudo chsh -s /bin/zsh $USER"
+    echo "Or remove this if section via your texteditor like: vim updaterepos.sh"
+    exit
+fi
+
+
 echo
 echo " ____  _____ ____   ___  "
 echo "|  _ \| ____|  _ \ / _ \ "
