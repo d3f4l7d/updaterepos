@@ -20,17 +20,17 @@ echo "|_| \_\_____|_|    \___/ "
 echo
 
 
-rm -rf ~/.config/d3f4l7d/safearch
-rm -rf ~/.config/d3f4l7d/autoinstall
+rm -rf ~/.config/d3f4l7d/archmanual
+rm -rf ~/.config/d3f4l7d/archresearch
+rm -rf ~/.config/d3f4l7d/archcybersec
 rm -rf ~/.config/d3f4l7d/archfictrac
 rm -rf ~/.config/d3f4l7d/archlightningpose
-rm -rf ~/.config/d3f4l7d/warewolf
-
-git clone https://github.com/d3f4l7d/safearch.git ~/.config/d3f4l7d/safearch
-git clone https://github.com/d3f4l7d/autoinstall.git ~/.config/d3f4l7d/autoinstall
+git clone https://github.com/d3f4l7d/archmanual.git ~/.config/d3f4l7d/archmanual
+git clone https://github.com/d3f4l7d/archresearch.git ~/.config/d3f4l7d/archresearch
+git clone https://github.com/d3f4l7d/archcybersec.git ~/.config/d3f4l7d/archcybersec
 git clone https://github.com/d3f4l7d/archfictrac.git ~/.config/d3f4l7d/archfictrac
 git clone https://github.com/d3f4l7d/archlightningpose.git ~/.config/d3f4l7d/archlightningpose
-git clone https://github.com/d3f4l7d/warewolf.git ~/.config/d3f4l7d/warewolf
+
 
 
 echo
